@@ -1,0 +1,2 @@
+# ArchiMateInteroperabilityTestModel
+Test Model
