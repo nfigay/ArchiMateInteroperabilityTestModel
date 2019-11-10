@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization Device-001 Device-001"
+    id="86465a61-a057-43fb-8bfc-c607ef56bb50">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_2ce3d381-6bf1-4c5d-85d0-617701e5a0de.xml#2ce3d381-6bf1-4c5d-85d0-617701e5a0de"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_2ce3d381-6bf1-4c5d-85d0-617701e5a0de.xml#2ce3d381-6bf1-4c5d-85d0-617701e5a0de"/>
+</archimate:SpecializationRelationship>

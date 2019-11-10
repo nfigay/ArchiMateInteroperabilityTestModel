@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Requirement-001 Requirement-001"
+    id="0d6a107a-180a-4327-9c53-8b58f681a756">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_9441c401-a05a-404e-b0c4-cd7324f79d84.xml#9441c401-a05a-404e-b0c4-cd7324f79d84"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_9441c401-a05a-404e-b0c4-cd7324f79d84.xml#9441c401-a05a-404e-b0c4-cd7324f79d84"/>
+</archimate:FlowRelationship>

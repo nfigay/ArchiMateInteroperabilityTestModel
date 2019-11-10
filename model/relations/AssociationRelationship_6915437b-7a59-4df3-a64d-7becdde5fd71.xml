@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Association Equipment-001 Equipment-001"
+    id="6915437b-7a59-4df3-a64d-7becdde5fd71">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_87f5daa8-6e52-4ec2-9b0f-36d479d727b5.xml#87f5daa8-6e52-4ec2-9b0f-36d479d727b5"/>
+  <target
+      xsi:type="archimate:Equipment"
+      href="Equipment_87f5daa8-6e52-4ec2-9b0f-36d479d727b5.xml#87f5daa8-6e52-4ec2-9b0f-36d479d727b5"/>
+</archimate:AssociationRelationship>

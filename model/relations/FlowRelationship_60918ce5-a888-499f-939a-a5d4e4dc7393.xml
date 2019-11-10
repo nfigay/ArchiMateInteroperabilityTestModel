@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Material-001 Material-001"
+    id="60918ce5-a888-499f-939a-a5d4e4dc7393">
+  <source
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+  <target
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+</archimate:FlowRelationship>

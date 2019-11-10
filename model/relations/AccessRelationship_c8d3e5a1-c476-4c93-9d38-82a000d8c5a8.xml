@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access ApplicationInteraction-001 ApplicationInteraction-001"
+    id="c8d3e5a1-c476-4c93-9d38-82a000d8c5a8">
+  <source
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_e85884d0-e712-48bb-954a-ecbbc7a692b2.xml#e85884d0-e712-48bb-954a-ecbbc7a692b2"/>
+  <target
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_e85884d0-e712-48bb-954a-ecbbc7a692b2.xml#e85884d0-e712-48bb-954a-ecbbc7a692b2"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Association ImplementationEvent-001 ImplementationEvent-001"
+    id="a249f039-ce8a-4271-b22f-0100cd3ce829">
+  <source
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_4d2bc9bd-abf9-4509-8c9d-477084627aee.xml#4d2bc9bd-abf9-4509-8c9d-477084627aee"/>
+  <target
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_4d2bc9bd-abf9-4509-8c9d-477084627aee.xml#4d2bc9bd-abf9-4509-8c9d-477084627aee"/>
+</archimate:AssociationRelationship>

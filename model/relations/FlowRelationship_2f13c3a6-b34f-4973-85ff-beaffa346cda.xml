@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Equipment-001 Equipment-001"
+    id="2f13c3a6-b34f-4973-85ff-beaffa346cda">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_87f5daa8-6e52-4ec2-9b0f-36d479d727b5.xml#87f5daa8-6e52-4ec2-9b0f-36d479d727b5"/>
+  <target
+      xsi:type="archimate:Equipment"
+      href="Equipment_87f5daa8-6e52-4ec2-9b0f-36d479d727b5.xml#87f5daa8-6e52-4ec2-9b0f-36d479d727b5"/>
+</archimate:FlowRelationship>

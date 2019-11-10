@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization TechnologyEvent-001 TechnologyEvent-001"
+    id="5d8daf57-70da-4cd4-a909-69fd56197224">
+  <source
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_032d6707-0960-4f2d-acb3-26bd12bbe24e.xml#032d6707-0960-4f2d-acb3-26bd12bbe24e"/>
+  <target
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_032d6707-0960-4f2d-acb3-26bd12bbe24e.xml#032d6707-0960-4f2d-acb3-26bd12bbe24e"/>
+</archimate:SpecializationRelationship>

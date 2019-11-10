@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Driver-001 Driver-001"
+    id="926c62d0-6f6a-4cd5-9fca-91458fab2127">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_491658d7-3137-4dff-9228-79da65b2579e.xml#491658d7-3137-4dff-9228-79da65b2579e"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_491658d7-3137-4dff-9228-79da65b2579e.xml#491658d7-3137-4dff-9228-79da65b2579e"/>
+</archimate:AccessRelationship>

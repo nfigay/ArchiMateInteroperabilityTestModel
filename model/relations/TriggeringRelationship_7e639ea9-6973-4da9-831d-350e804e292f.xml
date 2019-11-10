@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggering TechnologyEvent-001->Capability-002"
+    id="7e639ea9-6973-4da9-831d-350e804e292f">
+  <source
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_032d6707-0960-4f2d-acb3-26bd12bbe24e.xml#032d6707-0960-4f2d-acb3-26bd12bbe24e"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:TriggeringRelationship>

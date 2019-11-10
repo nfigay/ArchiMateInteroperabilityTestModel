@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Plateau-001 Plateau-001"
+    id="01d3d9b0-6c81-4be8-8774-62cb7062a011">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_13159f0d-7e95-4ee8-ac9b-393cd9e1e988.xml#13159f0d-7e95-4ee8-ac9b-393cd9e1e988"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_13159f0d-7e95-4ee8-ac9b-393cd9e1e988.xml#13159f0d-7e95-4ee8-ac9b-393cd9e1e988"/>
+</archimate:AccessRelationship>

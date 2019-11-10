@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence Deliverable-001 Deliverable-001"
+    id="2b4fb870-aad5-4da0-9810-c6a94436e7b8">
+  <source
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_adc91d5b-16ff-4130-8c84-0d4c786d59e2.xml#adc91d5b-16ff-4130-8c84-0d4c786d59e2"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_adc91d5b-16ff-4130-8c84-0d4c786d59e2.xml#adc91d5b-16ff-4130-8c84-0d4c786d59e2"/>
+</archimate:InfluenceRelationship>

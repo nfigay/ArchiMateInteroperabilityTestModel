@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composition Driver-001 Driver-001"
+    id="2ec5b727-5619-4712-ba20-a828bc1feacb">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_491658d7-3137-4dff-9228-79da65b2579e.xml#491658d7-3137-4dff-9228-79da65b2579e"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_491658d7-3137-4dff-9228-79da65b2579e.xml#491658d7-3137-4dff-9228-79da65b2579e"/>
+</archimate:CompositionRelationship>

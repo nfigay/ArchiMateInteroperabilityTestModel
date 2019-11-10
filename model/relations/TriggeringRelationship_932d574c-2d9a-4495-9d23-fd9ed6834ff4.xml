@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggering CourseOfAction-001->Capability-002"
+    id="932d574c-2d9a-4495-9d23-fd9ed6834ff4">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_a9790a31-8e5b-4f5a-9283-2b506fee9918.xml#a9790a31-8e5b-4f5a-9283-2b506fee9918"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:TriggeringRelationship>

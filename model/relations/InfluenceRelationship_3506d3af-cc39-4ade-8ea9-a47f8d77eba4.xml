@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence Gap-001 Gap-001"
+    id="3506d3af-cc39-4ade-8ea9-a47f8d77eba4">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+</archimate:InfluenceRelationship>

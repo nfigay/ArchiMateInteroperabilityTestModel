@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Contract-001 Contract-001"
+    id="6e8eafb6-c2aa-449f-aa32-fa04ba373814">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_626459e2-6443-4a94-925b-b668063d1aea.xml#626459e2-6443-4a94-925b-b668063d1aea"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_626459e2-6443-4a94-925b-b668063d1aea.xml#626459e2-6443-4a94-925b-b668063d1aea"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Gap-001 Gap-001"
+    id="c100a96d-08d4-494c-b942-ba65e26cd96c">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+</archimate:AccessRelationship>

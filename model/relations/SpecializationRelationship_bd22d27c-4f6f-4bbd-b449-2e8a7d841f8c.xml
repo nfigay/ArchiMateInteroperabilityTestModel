@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization TechnologyProcess-001 TechnologyProcess-001"
+    id="bd22d27c-4f6f-4bbd-b449-2e8a7d841f8c">
+  <source
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_39d85a68-66d1-4772-ad59-a7fbe09d5f87.xml#39d85a68-66d1-4772-ad59-a7fbe09d5f87"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_39d85a68-66d1-4772-ad59-a7fbe09d5f87.xml#39d85a68-66d1-4772-ad59-a7fbe09d5f87"/>
+</archimate:SpecializationRelationship>

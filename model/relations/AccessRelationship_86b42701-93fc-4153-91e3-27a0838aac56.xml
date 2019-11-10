@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access TechnologyInteraction-001 TechnologyInteraction-001"
+    id="86b42701-93fc-4153-91e3-27a0838aac56">
+  <source
+      xsi:type="archimate:TechnologyInteraction"
+      href="TechnologyInteraction_0f8e50d3-09db-454e-a89a-a922aa8d39f9.xml#0f8e50d3-09db-454e-a89a-a922aa8d39f9"/>
+  <target
+      xsi:type="archimate:TechnologyInteraction"
+      href="TechnologyInteraction_0f8e50d3-09db-454e-a89a-a922aa8d39f9.xml#0f8e50d3-09db-454e-a89a-a922aa8d39f9"/>
+</archimate:AccessRelationship>

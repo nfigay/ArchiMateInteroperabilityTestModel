@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Assessment-001 Assessment-001"
+    id="b56c6b95-7615-4fc4-9744-b702193ba0e2">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_ae1d27ec-6cde-4d24-837a-a57539767431.xml#ae1d27ec-6cde-4d24-837a-a57539767431"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_ae1d27ec-6cde-4d24-837a-a57539767431.xml#ae1d27ec-6cde-4d24-837a-a57539767431"/>
+</archimate:FlowRelationship>

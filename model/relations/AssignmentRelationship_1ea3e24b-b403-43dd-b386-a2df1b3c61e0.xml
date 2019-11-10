@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assignment ApplicationFunction-001->Capability-002"
+    id="1ea3e24b-b403-43dd-b386-a2df1b3c61e0">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_a5b0aacc-365a-47a1-8137-cd9daa236ba4.xml#a5b0aacc-365a-47a1-8137-cd9daa236ba4"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:AssignmentRelationship>

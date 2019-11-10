@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggering Material-001->Capability-002"
+    id="42d916d7-79c2-4554-9f7b-f62ca8a11abb">
+  <source
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composition TechnologyInteraction-001 TechnologyInteraction-001"
+    id="c0a1632c-9e9c-45da-a871-21d9ebf69c6b">
+  <source
+      xsi:type="archimate:TechnologyInteraction"
+      href="TechnologyInteraction_0f8e50d3-09db-454e-a89a-a922aa8d39f9.xml#0f8e50d3-09db-454e-a89a-a922aa8d39f9"/>
+  <target
+      xsi:type="archimate:TechnologyInteraction"
+      href="TechnologyInteraction_0f8e50d3-09db-454e-a89a-a922aa8d39f9.xml#0f8e50d3-09db-454e-a89a-a922aa8d39f9"/>
+</archimate:CompositionRelationship>

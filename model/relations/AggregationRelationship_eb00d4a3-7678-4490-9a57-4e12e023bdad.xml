@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregation ApplicationCollaboration-001 ApplicationCollaboration-001"
+    id="eb00d4a3-7678-4490-9a57-4e12e023bdad">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_2142c0db-4064-454a-922d-051fe9e1c59c.xml#2142c0db-4064-454a-922d-051fe9e1c59c"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_2142c0db-4064-454a-922d-051fe9e1c59c.xml#2142c0db-4064-454a-922d-051fe9e1c59c"/>
+</archimate:AggregationRelationship>

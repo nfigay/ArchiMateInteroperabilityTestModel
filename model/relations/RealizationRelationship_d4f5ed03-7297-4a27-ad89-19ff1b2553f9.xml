@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realization Product-001 Product-001"
+    id="d4f5ed03-7297-4a27-ad89-19ff1b2553f9">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_8b8c51a7-e985-46c4-8a1e-88f0261a7025.xml#8b8c51a7-e985-46c4-8a1e-88f0261a7025"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_8b8c51a7-e985-46c4-8a1e-88f0261a7025.xml#8b8c51a7-e985-46c4-8a1e-88f0261a7025"/>
+</archimate:RealizationRelationship>

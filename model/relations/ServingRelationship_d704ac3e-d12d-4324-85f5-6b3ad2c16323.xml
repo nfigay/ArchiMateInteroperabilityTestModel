@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Plateau-001 Plateau-001"
+    id="d704ac3e-d12d-4324-85f5-6b3ad2c16323">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_13159f0d-7e95-4ee8-ac9b-393cd9e1e988.xml#13159f0d-7e95-4ee8-ac9b-393cd9e1e988"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_13159f0d-7e95-4ee8-ac9b-393cd9e1e988.xml#13159f0d-7e95-4ee8-ac9b-393cd9e1e988"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow TechnologyInteraction-001 TechnologyInteraction-001"
+    id="e77e8938-1825-4880-9daf-f37fce71afd9">
+  <source
+      xsi:type="archimate:TechnologyInteraction"
+      href="TechnologyInteraction_0f8e50d3-09db-454e-a89a-a922aa8d39f9.xml#0f8e50d3-09db-454e-a89a-a922aa8d39f9"/>
+  <target
+      xsi:type="archimate:TechnologyInteraction"
+      href="TechnologyInteraction_0f8e50d3-09db-454e-a89a-a922aa8d39f9.xml#0f8e50d3-09db-454e-a89a-a922aa8d39f9"/>
+</archimate:FlowRelationship>

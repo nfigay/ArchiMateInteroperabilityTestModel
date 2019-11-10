@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realization Stakeholder-001 Stakeholder-001"
+    id="47eb24c1-ac6d-46d9-852b-50d386fed322">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_d23d4aa9-9445-4285-9997-2979a04d2aef.xml#d23d4aa9-9445-4285-9997-2979a04d2aef"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_d23d4aa9-9445-4285-9997-2979a04d2aef.xml#d23d4aa9-9445-4285-9997-2979a04d2aef"/>
+</archimate:RealizationRelationship>

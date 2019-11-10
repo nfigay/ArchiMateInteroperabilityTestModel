@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composition DistributionNetwork-001->Capability-002"
+    id="77b920b2-30b0-4fae-902c-14faa668250b">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:CompositionRelationship>

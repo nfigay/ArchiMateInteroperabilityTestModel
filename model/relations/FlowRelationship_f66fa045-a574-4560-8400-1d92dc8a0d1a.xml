@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Meaning-001 Meaning-001"
+    id="f66fa045-a574-4560-8400-1d92dc8a0d1a">
+  <source
+      xsi:type="archimate:Meaning"
+      href="Meaning_e602e122-d17b-497e-bcd3-b9cfdd225048.xml#e602e122-d17b-497e-bcd3-b9cfdd225048"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_e602e122-d17b-497e-bcd3-b9cfdd225048.xml#e602e122-d17b-497e-bcd3-b9cfdd225048"/>
+</archimate:FlowRelationship>

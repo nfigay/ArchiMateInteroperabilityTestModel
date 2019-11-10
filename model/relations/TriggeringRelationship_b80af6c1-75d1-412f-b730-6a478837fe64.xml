@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggering Material-001 Material-001"
+    id="b80af6c1-75d1-412f-b730-6a478837fe64">
+  <source
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+  <target
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization Principle-001 Principle-001"
+    id="a22df6c3-5ae1-446d-a6d0-28b7b2873d67">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_55758dd7-ad9a-4f68-bf9a-abead748e5ac.xml#55758dd7-ad9a-4f68-bf9a-abead748e5ac"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_55758dd7-ad9a-4f68-bf9a-abead748e5ac.xml#55758dd7-ad9a-4f68-bf9a-abead748e5ac"/>
+</archimate:SpecializationRelationship>

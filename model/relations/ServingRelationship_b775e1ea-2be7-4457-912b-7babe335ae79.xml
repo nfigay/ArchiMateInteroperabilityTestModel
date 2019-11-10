@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Assessment-001 Assessment-001"
+    id="b775e1ea-2be7-4457-912b-7babe335ae79">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_ae1d27ec-6cde-4d24-837a-a57539767431.xml#ae1d27ec-6cde-4d24-837a-a57539767431"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_ae1d27ec-6cde-4d24-837a-a57539767431.xml#ae1d27ec-6cde-4d24-837a-a57539767431"/>
+</archimate:ServingRelationship>

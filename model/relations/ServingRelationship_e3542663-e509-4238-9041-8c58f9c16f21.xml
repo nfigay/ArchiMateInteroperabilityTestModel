@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Constraint-001 Constraint-001"
+    id="e3542663-e509-4238-9041-8c58f9c16f21">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_c9c3bbb5-0d6c-4642-ad63-dba347ad5854.xml#c9c3bbb5-0d6c-4642-ad63-dba347ad5854"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_c9c3bbb5-0d6c-4642-ad63-dba347ad5854.xml#c9c3bbb5-0d6c-4642-ad63-dba347ad5854"/>
+</archimate:ServingRelationship>

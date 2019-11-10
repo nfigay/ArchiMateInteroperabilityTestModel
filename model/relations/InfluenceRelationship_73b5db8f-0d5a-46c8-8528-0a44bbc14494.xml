@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence DistributionNetwork-001 DistributionNetwork-001"
+    id="73b5db8f-0d5a-46c8-8528-0a44bbc14494">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+  <target
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+</archimate:InfluenceRelationship>

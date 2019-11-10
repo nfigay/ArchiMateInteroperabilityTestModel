@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Goal-001 Goal-001"
+    id="0288462c-55ab-468d-ab35-bd00fbf0bcb2">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_7b9e1aa3-e9a1-4eee-a6de-68950975d414.xml#7b9e1aa3-e9a1-4eee-a6de-68950975d414"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_7b9e1aa3-e9a1-4eee-a6de-68950975d414.xml#7b9e1aa3-e9a1-4eee-a6de-68950975d414"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow Gap-001 Gap-001"
+    id="d4a991e1-27f4-494a-a134-c16d4fe90762">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+</archimate:FlowRelationship>

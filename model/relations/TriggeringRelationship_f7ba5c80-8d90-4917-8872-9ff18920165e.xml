@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggering DistributionNetwork-001 DistributionNetwork-001"
+    id="f7ba5c80-8d90-4917-8872-9ff18920165e">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+  <target
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+</archimate:TriggeringRelationship>

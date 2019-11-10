@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realization BusinessEvent-001 BusinessEvent-001"
+    id="0357cf74-213f-4662-a7a3-317f5021a478">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_887bec29-5954-4acb-a82a-c3693aa41569.xml#887bec29-5954-4acb-a82a-c3693aa41569"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_887bec29-5954-4acb-a82a-c3693aa41569.xml#887bec29-5954-4acb-a82a-c3693aa41569"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregation Material-001 Material-001"
+    id="8fd46745-69d3-429f-be61-c05919faad6b">
+  <source
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+  <target
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+</archimate:AggregationRelationship>

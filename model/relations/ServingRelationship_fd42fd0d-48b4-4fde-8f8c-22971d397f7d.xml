@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Stakeholder-001 Stakeholder-001"
+    id="fd42fd0d-48b4-4fde-8f8c-22971d397f7d">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_d23d4aa9-9445-4285-9997-2979a04d2aef.xml#d23d4aa9-9445-4285-9997-2979a04d2aef"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_d23d4aa9-9445-4285-9997-2979a04d2aef.xml#d23d4aa9-9445-4285-9997-2979a04d2aef"/>
+</archimate:ServingRelationship>

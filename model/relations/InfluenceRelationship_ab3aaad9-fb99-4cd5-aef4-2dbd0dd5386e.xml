@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence CourseOfAction-001 CourseOfAction-001"
+    id="ab3aaad9-fb99-4cd5-aef4-2dbd0dd5386e">
+  <source
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_a9790a31-8e5b-4f5a-9283-2b506fee9918.xml#a9790a31-8e5b-4f5a-9283-2b506fee9918"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_a9790a31-8e5b-4f5a-9283-2b506fee9918.xml#a9790a31-8e5b-4f5a-9283-2b506fee9918"/>
+</archimate:InfluenceRelationship>

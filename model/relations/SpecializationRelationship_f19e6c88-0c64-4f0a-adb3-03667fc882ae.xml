@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization Gap-001 Gap-001"
+    id="f19e6c88-0c64-4f0a-adb3-03667fc882ae">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_5562b806-f7e1-4138-a1d5-a007cc77efb8.xml#5562b806-f7e1-4138-a1d5-a007cc77efb8"/>
+</archimate:SpecializationRelationship>

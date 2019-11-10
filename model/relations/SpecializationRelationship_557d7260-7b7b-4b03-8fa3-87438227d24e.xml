@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization ApplicationCollaboration-001 ApplicationCollaboration-001"
+    id="557d7260-7b7b-4b03-8fa3-87438227d24e">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_2142c0db-4064-454a-922d-051fe9e1c59c.xml#2142c0db-4064-454a-922d-051fe9e1c59c"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_2142c0db-4064-454a-922d-051fe9e1c59c.xml#2142c0db-4064-454a-922d-051fe9e1c59c"/>
+</archimate:SpecializationRelationship>

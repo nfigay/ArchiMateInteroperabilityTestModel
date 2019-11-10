@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence Material-001 Material-001"
+    id="0b82e6e4-4b93-4e59-8ed4-fb9a40ea5e11">
+  <source
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+  <target
+      xsi:type="archimate:Material"
+      href="Material_c526efea-1b15-4e2b-a0aa-3df3770a45e8.xml#c526efea-1b15-4e2b-a0aa-3df3770a45e8"/>
+</archimate:InfluenceRelationship>

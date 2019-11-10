@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Representation-001 Representation-001"
+    id="6049f2f2-2259-4027-a784-500187422ccc">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_22c58410-9e01-4038-8b8b-d73f12cdb392.xml#22c58410-9e01-4038-8b8b-d73f12cdb392"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_22c58410-9e01-4038-8b8b-d73f12cdb392.xml#22c58410-9e01-4038-8b8b-d73f12cdb392"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Capability-001 Capability-001"
+    id="c780e3a0-9a61-474e-99cd-d28b292a1a00">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_bacc4e00-3263-4937-b3db-00bbab6c37b2.xml#bacc4e00-3263-4937-b3db-00bbab6c37b2"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_bacc4e00-3263-4937-b3db-00bbab6c37b2.xml#bacc4e00-3263-4937-b3db-00bbab6c37b2"/>
+</archimate:AccessRelationship>

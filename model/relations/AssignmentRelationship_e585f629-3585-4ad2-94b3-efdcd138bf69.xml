@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assignment Goal-001 Goal-001"
+    id="e585f629-3585-4ad2-94b3-efdcd138bf69">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_7b9e1aa3-e9a1-4eee-a6de-68950975d414.xml#7b9e1aa3-e9a1-4eee-a6de-68950975d414"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_7b9e1aa3-e9a1-4eee-a6de-68950975d414.xml#7b9e1aa3-e9a1-4eee-a6de-68950975d414"/>
+</archimate:AssignmentRelationship>

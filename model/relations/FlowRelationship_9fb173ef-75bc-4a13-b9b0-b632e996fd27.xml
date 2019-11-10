@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flow DistributionNetwork-001 DistributionNetwork-001"
+    id="9fb173ef-75bc-4a13-b9b0-b632e996fd27">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+  <target
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+</archimate:FlowRelationship>

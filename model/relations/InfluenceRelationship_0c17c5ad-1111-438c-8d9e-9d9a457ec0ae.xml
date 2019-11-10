@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence TechnologyFunction-001 TechnologyFunction-001"
+    id="0c17c5ad-1111-438c-8d9e-9d9a457ec0ae">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_bc01dd7d-93ba-4b29-a064-58f714f37484.xml#bc01dd7d-93ba-4b29-a064-58f714f37484"/>
+  <target
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_bc01dd7d-93ba-4b29-a064-58f714f37484.xml#bc01dd7d-93ba-4b29-a064-58f714f37484"/>
+</archimate:InfluenceRelationship>

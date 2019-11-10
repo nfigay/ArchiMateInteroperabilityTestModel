@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assignment Deliverable-001 Deliverable-001"
+    id="078e888e-4264-4b87-945b-2c15f4a4e0c9">
+  <source
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_adc91d5b-16ff-4130-8c84-0d4c786d59e2.xml#adc91d5b-16ff-4130-8c84-0d4c786d59e2"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_adc91d5b-16ff-4130-8c84-0d4c786d59e2.xml#adc91d5b-16ff-4130-8c84-0d4c786d59e2"/>
+</archimate:AssignmentRelationship>

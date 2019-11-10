@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregation TechnologyProcess-001 TechnologyProcess-001"
+    id="c62e5ebe-244a-4fa9-bd94-a424a3ed36fb">
+  <source
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_39d85a68-66d1-4772-ad59-a7fbe09d5f87.xml#39d85a68-66d1-4772-ad59-a7fbe09d5f87"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_39d85a68-66d1-4772-ad59-a7fbe09d5f87.xml#39d85a68-66d1-4772-ad59-a7fbe09d5f87"/>
+</archimate:AggregationRelationship>

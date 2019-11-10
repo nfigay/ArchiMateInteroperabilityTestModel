@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Requirement-001->Capability-002"
+    id="ceee0b5b-c194-4d6e-8399-1638423b580d">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_9441c401-a05a-404e-b0c4-cd7324f79d84.xml#9441c401-a05a-404e-b0c4-cd7324f79d84"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:AccessRelationship>

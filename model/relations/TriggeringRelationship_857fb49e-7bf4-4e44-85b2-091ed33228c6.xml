@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triggering Constraint-001->Capability-002"
+    id="857fb49e-7bf4-4e44-85b2-091ed33228c6">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_c9c3bbb5-0d6c-4642-ad63-dba347ad5854.xml#c9c3bbb5-0d6c-4642-ad63-dba347ad5854"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:TriggeringRelationship>

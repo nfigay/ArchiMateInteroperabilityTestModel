@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Composition TechnologyEvent-001 TechnologyEvent-001"
+    id="90f69ef0-c272-4d2b-a1f5-ab155aeaf30c">
+  <source
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_032d6707-0960-4f2d-acb3-26bd12bbe24e.xml#032d6707-0960-4f2d-acb3-26bd12bbe24e"/>
+  <target
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_032d6707-0960-4f2d-acb3-26bd12bbe24e.xml#032d6707-0960-4f2d-acb3-26bd12bbe24e"/>
+</archimate:CompositionRelationship>

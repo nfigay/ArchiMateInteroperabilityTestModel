@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Stakeholder-001->Capability-002"
+    id="fea6084a-4df0-43f3-9ab9-1b7afa2d6fc5">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_d23d4aa9-9445-4285-9997-2979a04d2aef.xml#d23d4aa9-9445-4285-9997-2979a04d2aef"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_1849ae86-2071-4d84-bf1d-437a30326b08.xml#1849ae86-2071-4d84-bf1d-437a30326b08"/>
+</archimate:ServingRelationship>

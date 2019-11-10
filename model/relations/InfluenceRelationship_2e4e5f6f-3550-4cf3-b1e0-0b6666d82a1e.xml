@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence CommunicationNetwork-001 CommunicationNetwork-001"
+    id="2e4e5f6f-3550-4cf3-b1e0-0b6666d82a1e">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_f06d1d52-647b-461e-b3eb-fe87dc1639d3.xml#f06d1d52-647b-461e-b3eb-fe87dc1639d3"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_f06d1d52-647b-461e-b3eb-fe87dc1639d3.xml#f06d1d52-647b-461e-b3eb-fe87dc1639d3"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization DistributionNetwork-001 DistributionNetwork-001"
+    id="13ac8b85-fba4-45cb-ab47-a2d4344d6735">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+  <target
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_ff59fab3-7d16-468d-a599-a926665001ae.xml#ff59fab3-7d16-468d-a599-a926665001ae"/>
+</archimate:SpecializationRelationship>
