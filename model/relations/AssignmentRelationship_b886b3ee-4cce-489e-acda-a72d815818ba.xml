@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assignment Gap-001->Plateau-002"
+    id="b886b3ee-4cce-489e-acda-a72d815818ba">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_12e93039-5163-41d6-afd2-cc442834037e.xml#12e93039-5163-41d6-afd2-cc442834037e"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_d7d70fb6-3237-43fa-a3d3-beb1dd0faf9f.xml#d7d70fb6-3237-43fa-a3d3-beb1dd0faf9f"/>
+</archimate:AssignmentRelationship>

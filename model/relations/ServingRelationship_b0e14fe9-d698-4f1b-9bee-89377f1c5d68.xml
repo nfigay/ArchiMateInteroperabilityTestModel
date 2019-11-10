@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serving Gap-001->Grouping-002"
+    id="b0e14fe9-d698-4f1b-9bee-89377f1c5d68">
+  <source
+      xsi:type="archimate:Gap"
+      href="Gap_12e93039-5163-41d6-afd2-cc442834037e.xml#12e93039-5163-41d6-afd2-cc442834037e"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_2378a073-a803-4e6a-94e2-4836c53db41e.xml#2378a073-a803-4e6a-94e2-4836c53db41e"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Specialization Grouping-001->Gap-002"
+    id="9a20513f-c535-4cd8-a3d3-8a14fdb4721a">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_07b27e8b-9c3a-4e57-af64-2431afd7b068.xml#07b27e8b-9c3a-4e57-af64-2431afd7b068"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_37183fe0-df7d-4318-baa6-9dea138625e7.xml#37183fe0-df7d-4318-baa6-9dea138625e7"/>
+</archimate:SpecializationRelationship>

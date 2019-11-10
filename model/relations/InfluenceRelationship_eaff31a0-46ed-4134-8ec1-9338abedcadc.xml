@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influence Plateau-001->Gap-002"
+    id="eaff31a0-46ed-4134-8ec1-9338abedcadc">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_c672b00d-8ca5-4624-8750-c82649e5fc3e.xml#c672b00d-8ca5-4624-8750-c82649e5fc3e"/>
+  <target
+      xsi:type="archimate:Gap"
+      href="Gap_37183fe0-df7d-4318-baa6-9dea138625e7.xml#37183fe0-df7d-4318-baa6-9dea138625e7"/>
+</archimate:InfluenceRelationship>

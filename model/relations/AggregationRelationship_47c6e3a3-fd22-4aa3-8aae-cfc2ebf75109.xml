@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregation Grouping-001->Plateau-002"
+    id="47c6e3a3-fd22-4aa3-8aae-cfc2ebf75109">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_07b27e8b-9c3a-4e57-af64-2431afd7b068.xml#07b27e8b-9c3a-4e57-af64-2431afd7b068"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_d7d70fb6-3237-43fa-a3d3-beb1dd0faf9f.xml#d7d70fb6-3237-43fa-a3d3-beb1dd0faf9f"/>
+</archimate:AggregationRelationship>
